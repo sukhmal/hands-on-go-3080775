@@ -16,7 +16,7 @@
   "explorer.openEditors.visible": 0,
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
-  "terminal.integrated.fontFamily": "Meslo LGS NF",
+  "terminal.integrated.fontFamily": "monospace",
   "terminal.integrated.fontSize": 12,
   "workbench.activityBar.visible": true,
   "workbench.colorTheme": "Visual Studio Dark",
